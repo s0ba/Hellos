@@ -3,7 +3,7 @@
 ##Greetings
 Hello World!
 
-### Hello...		###Goodbye
+### Hello...		Goodbye
 Konnichi wa! ---> 	Sayonara!
 
 Boungiorno! ---> 	Arrivederci!
